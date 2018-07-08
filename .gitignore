@@ -1,0 +1,9 @@
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+.idea/*
+.DS_Store
+.settings/*
+application/logs
+*/logs/log-*.php
+!*/logs/index.html
